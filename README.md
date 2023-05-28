@@ -22,8 +22,6 @@
   <br/>
   <br/>
  
-![Karthik-Siru's GitHub stats](https://github-readme-stats.vercel.app/api?username=karthik-siru&show_icons=true&theme=dark&count_private=true)
-
 </div>
 - 📫 Mail : karthiksiruvalam@gmail.com
 
